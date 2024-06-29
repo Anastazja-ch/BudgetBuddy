@@ -43,24 +43,12 @@ Aplikacja powinna uruchomić się na porcie 8080. Możesz uzyskać do niej dost�
 ## Struktura Projektu
 
 Kontrolery
-UserController: zarządza rejestracją i logowaniem użytkowników.
-TransactionController: zarządza operacjami CRUD na transakcjach.
 
 Modele
-User: model użytkownika.
-Transaction: model transakcji.
 
 Usługi
-UserService: logika biznesowa dla użytkowników.
-TransactionService: logika biznesowa dla transakcji.
 
 Widoki
-register.html: formularz rejestracji.
-login.html: formularz logowania.
-transactions.html: lista transakcji.
-create_transaction.html: formularz tworzenia nowej transakcji.
-edit_transaction.html: formularz edycji transakcji.
-saldo.html: widok salda.
 
 ## Jak zakończyć pracę z projektem?
 Aby zakończyć pracę z repozytorium, wykonaj następujące kroki:
